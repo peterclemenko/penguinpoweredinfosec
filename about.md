@@ -1,15 +1,10 @@
 About
 =======
 
-Twitter - [gimmick:TwitterFollow](@th3flyboy)
 
-This is a test
+Biography
 ----------
 
-  * list item 1
-  * list item 2
+I am a student in Computer Network Security at Wilmington University. In my spare time I do various activities from information security, open source development, or gaming. My research in forensic artifacts left behind by computer gaming applications was inspired by opening up an in game web browser and wondering what kind of artifacts it left behind. I have since done a presentation on the artifacts left behind at BSides Delaware 2013, titled "Playing the Forensics Game: Forensic Analysis of Gaming Applications for Fun and Profit".
 
-  This is a hyperlink to [Google](http://google.com).
-
-  Images are like hyperlinks, but with an exclamation mark in front of them:
-  ![](http://placekitten.com/g/250/250)
+[gimmick:TwitterFollow](@th3flyboy)
